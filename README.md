@@ -2,7 +2,7 @@
 
 ## About this repository:
 
-This repository contains supplementary information for a manuscript _"Synaptic changes in psychiatric and neurological disorders: state-of-the art of in vivo imaging"_ (currently under review). Due to the volume of data extracted, only statistically significant findings were included in the tables within the manuscript. Full data is available to access in this repository.
+This repository contains supplementary information for the review _"[Synaptic changes in psychiatric and neurological disorders: state-of-the art of in vivo imaging](https://www.nature.com/articles/s41386-024-01943-x)"_. Due to the volume of data extracted, only statistically significant findings were included in the tables within the manuscript. Full data is available to access in this repository.
 
 ## Tables summarising the results from human in-vivo SV2A PET studies:
 
